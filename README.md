@@ -1,3 +1,6 @@
+<img width="1021" height="592" alt="Screenshot 2025-09-19 234016" src="https://github.com/user-attachments/assets/ef032e85-ab26-4dd8-b598-b34a6dcad783" />
+<img width="742" height="616" alt="Screenshot 2025-09-19 233632" src="https://github.com/user-attachments/assets/8659b70f-e233-4cdc-a38d-dde47511ea27" />
+<img width="766" height="685" alt="Screenshot 2025-09-19 233605" src="https://github.com/user-attachments/assets/50510d04-eb22-4579-8721-a2a37798862a" />
 # Early-Prediction-of-Alzheimer-s-Disease-A-Machine-Learning-Framework-Leveraging-Clinical-Biomarkers
 A machine learning analysis of Alzheimer's biomarkers using clinical data from 2,149 patients. Gradient Boosting achieved 95% accuracy in prediction. SHAP interpretation identified key clinical factors. Supports early detection approaches in neurodegenerative disease care.
 
