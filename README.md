@@ -1,10 +1,6 @@
 # Early-Prediction-of-Alzheimer-s-Disease-A-Machine-Learning-Framework-Leveraging-Clinical-Biomarkers
 A machine learning analysis of Alzheimer's biomarkers using clinical data from 2,149 patients. Gradient Boosting achieved 95% accuracy in prediction. SHAP interpretation identified key clinical factors. Supports early detection approaches in neurodegenerative disease care.
 
-# Predictive Modeling of Alzheimer's Disease
-
-This project implements a machine learning framework to analyze clinical biomarkers for Alzheimer's Disease prediction.
-
 ## Project Overview
 
 The goal of this project is to develop a predictive model for Alzheimer's Disease using clinical and lifestyle biomarkers from a dataset of 2,149 patients. The analysis compares multiple machine learning algorithms to identify the most effective approach for early detection.
