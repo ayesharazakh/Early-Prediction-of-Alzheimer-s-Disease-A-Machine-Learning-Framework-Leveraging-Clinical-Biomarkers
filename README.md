@@ -34,26 +34,25 @@ The Gradient Boosting classifier demonstrated the best performance:
   - Functional assessment scores
 
 ## Key Findings
-• Gradient Boosting emerged as the optimal model with 95% accuracy and 0.93 F1-score for Alzheimer's detection
-• Tree-based models significantly outperformed traditional logistic regression (95% vs 79% accuracy)
-• The most predictive features aligned with known clinical markers of Alzheimer's progression
-• The model shows strong potential as a decision-support tool for early intervention
+- Gradient Boosting emerged as the optimal model with 95% accuracy and 0.93 F1-score for Alzheimer's detection
+- Tree-based models significantly outperformed traditional logistic regression (95% vs 79% accuracy)
+- The most predictive features aligned with known clinical markers of Alzheimer's progression
+- The model shows strong potential as a decision-support tool for early intervention
 
 
 ## Clinical Relevance:
 This predictive tool could assist clinicians in:
-• Identifying high-risk patients for earlier neurological referral
-• Prioritizing costly diagnostic workups (PET/MRI) for those most likely to benefit
-• Monitoring disease progression through longitudinal biomarker tracking
-• Reducing time-to-diagnosis by flagging subtle patterns in routine clinical data
+- Identifying high-risk patients for earlier neurological referral
+- Prioritizing costly diagnostic workups (PET/MRI) for those most likely to benefit
+- Monitoring disease progression through longitudinal biomarker tracking
+- Reducing time-to-diagnosis by flagging subtle patterns in routine clinical data
 
 ## Future Research Directions:
-• Integration with neuroimaging data (MRI, PET scans) for multimodal prediction
-• Validation on larger, multi-center cohorts to ensure generalizability
-• Development of a real-time clinical decision support system interface
-• Exploration of time-to-conversion prediction in Mild Cognitive Impairment (MCI) patients
-• Investigation of feature importance shifts across different disease stages
-
+- Integration with neuroimaging data (MRI, PET scans) for multimodal prediction
+- Validation on larger, multi-center cohorts to ensure generalizability
+- Development of a real-time clinical decision support system interface
+- Exploration of time-to-conversion prediction in Mild Cognitive Impairment (MCI) patients
+- Investigation of feature importance shifts across different disease stages
 
 ##  Author
 Ayesha Razakh
